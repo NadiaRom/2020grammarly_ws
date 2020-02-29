@@ -2,3 +2,5 @@ env/
 .ipynb_checkpoints/
 __pycache__/
 data/
+notes.odt
+.~lock*
